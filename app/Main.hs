@@ -31,4 +31,4 @@ main = do
     f ["MyGloss1"]   = MyGloss1.main
     f ["MyGloss2"]   = MyGloss2.main
     f ["MyGloss3"]   = MyGloss3.main
-    f _                = usage
+    f _              = usage
